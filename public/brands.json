@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "brand_name": "Apple",
+      "image": "https://i.ibb.co/ZYmjFJQ/s1cihnpc1cnekihotv0e.webp"
+    },
+    {
+      "id": 2,
+      "brand_name": "Samsung",
+      "image": "https://i.ibb.co/D4MQ51y/images.png"
+    },
+    {
+      "id": 3,
+      "brand_name": "Sony",
+      "image": "https://i.ibb.co/0GYcPSV/channels4-profile.jpg"
+    },
+    {
+      "id": 4,
+      "brand_name": "Google",
+      "image": "https://i.ibb.co/hFVksg9/wired-uk-google-watching.webp"
+    },
+    {
+      "id": 5,
+      "brand_name": "Intel",
+      "image": "https://i.ibb.co/vV1XX8R/intel-logo-56a6fa195f9b58b7d0e5ce3a.png"
+    },
+    {
+      "id": 6,
+      "brand_name": "Microsoft",
+      "image": "https://i.ibb.co/3smWcy2/microsoft.png"
+    }
+  ]
